@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20231217T063023Z
+DTEND:20240303T180023Z
+DTSTAMP:20240305T125003Z
+ORGANIZER;CN="HACKHAZARDS":MAILTO:calendar-invite@lu.ma
+UID:evt-cPIsbjh5uMZ1Vx6@events.lu.ma
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=myname
+ aakash46@gmail.com;X-NUM-GUESTS=0:mailto:mynameaakash46@gmail.com
+SUMMARY:HACKHAZARDS '24 Call for Mentors
+DESCRIPTION:You are hosting this event. View the public page at https://lu.
+ ma/hackhazards24mentors.\n\nManage the event at https://lu.ma/event/manage/
+ evt-cPIsbjh5uMZ1Vx6.
+LOCATION:https://lu.ma/event/evt-cPIsbjh5uMZ1Vx6
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
